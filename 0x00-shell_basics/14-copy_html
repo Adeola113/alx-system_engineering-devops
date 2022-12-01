@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -rua *git.html ../
+cp -un *.html ../
