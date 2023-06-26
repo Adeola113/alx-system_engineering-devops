@@ -1,0 +1,1 @@
+This was the first in a varies of web stack debugging project, I was given broken webstack in isolated containers and tasked with fixing the web stack to a working state, so i wrote a script automating the commands necessary to fix the web stack
